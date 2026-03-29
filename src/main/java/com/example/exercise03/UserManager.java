@@ -1,4 +1,4 @@
-package main.java.com.example.exercise03;
+package com.example.exercise03;
 
 import java.util.LinkedList;
 import java.util.List;

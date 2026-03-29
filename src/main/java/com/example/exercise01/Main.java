@@ -1,4 +1,4 @@
-package main.java.com.example.session10;
+package com.example.exercise01;
 
 public class Main {
     public static void main(String[] args) {

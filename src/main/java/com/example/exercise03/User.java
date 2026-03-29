@@ -1,4 +1,4 @@
-package main.java.com.example.exercise03;
+package com.example.exercise03;
 
 public record User(String name, String email, String phone) {
     @Override

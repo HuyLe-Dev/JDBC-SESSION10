@@ -1,4 +1,4 @@
-package main.java.com.example.exercise02;
+package com.example.exercise02;
 
 public record Book(String name, String author, int publishYear) {
     @Override
